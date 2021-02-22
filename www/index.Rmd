@@ -1,11 +1,11 @@
 ---
-title: "My website"
+title: "Rachel Yan"
 output:
   html_document:
     toc: false
 ---
 
-Write stuff in Markdown here. Like **bold** things and *italic* things. 
+
 
 And images:
 

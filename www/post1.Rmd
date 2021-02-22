@@ -1,5 +1,21 @@
 ---
-title: "My first story"
+title: "Data Feminism Introduction"
 ---
 
-It was a dark and stormy night...
+**Reading: Data Feminism Introducation.**     
+02/20/21  
+
+  Although Data Feminism was written by two white, straight cisgendered, middle-class women in the U.S., whom I share different identities, I appreciate their ackolwedgment in their privileges and their efforts in starting a conversation on power dynamics and inequality in data science.      
+
+  In this opener, Catherine and Lauren focused on a commonly forgotten angle in the history and contemporary pratices of data science. By emphasizing the idea of data feminism and intersectionality, both authors reminded us that data science is more than just numbers and models. It is a rich and dynamic subject that plays an important role in advocating for equality, diversity and inclusion of the humankind. I am particularly inspired by the authors’ effort to connect the idea of intersectionality, which was originally proposed by Kimberle Crenshaw, to the complexity in data. As a person who studies developmental Psychology and conduct data analyses on a regular basis, I have become increasingly aware of the needs to approach data with an intersectional perspective. More importantly, I believe that we need to develop appropriate data collection methods/surveys that allows for such intersectional inquiries. It is interesting to know, for example, that despite the increasing diversity in its population, the majority of the continental Europe does not collect race-based population statistics and the mention of “race” has been removed in all official use (Moffit et al. 2020). Though the intention behind such pratice is to address the racial hiearchy that was created and used to justify mass atrocity, removing the “conversation” on “race” inevitably impede the developement of people’s understanding of race as a social contruct. In this case, racial inequality is manifested through other means of classifcation (nationality, religious belief and education level..etc). In the U.S., though studies have suggested the importance of intersectionality of social identities across the age span and urged researchers to pay more attention to the combined effect of social categories (e.g. race and gender), research and theories that focues on a single social identity are still in the majority (Ghavami et al., 2016).      
+ 
+  In addition, the author also mentioned that “a key way that power and privilege operate in the world today has to do with word data itself.” (D'Ignazio & Klein, 2020, p.10). Reflecting upon my own experience of data analysis, I have heard of the phrase “if you torture data long enough, it will confess to anaything.”, a quote from the Nobel Laureate Ronald Coase. In retrospective, I realized just how problematic this approach to data analysis is. In particular, this idea of “torturing” has an unequal power dynamic behind it. If we look beyond the data itself, the inevitable questions rises, “who is doing the toruture?” and “who is confessing?”.  I believe to this day, the idea of “ making data confess” is still commonly practiced in many professions and institutions, and may continue being so in the forseeing future. However, I believe that just like Darden and Champine, who have revealed the systematic issues in their work , we are slowly on our way to challenge the “standard pratices” in data science by engaging in data feminism!  
+
+_Bibliography_:   
+
+D'Ignazio, C., & Klein, L. F. (2020). Data feminism.  
+
+Ghavami, N., Katsiaficas, D., & Rogers, L. O. (2016). Toward an intersectional approach in developmental science: The role of race, gender, sexual orientation, and immigrant status. In S. S. Horn, M. D. Ruck, & L. S. Liben (Eds.), Advances in child development and behavior: Vol. 50. Equity and justice in developmental science: Theoretical and methodological issues (p. 31–73). Elsevier Academic Press. https://doi.org/10.1016/bs.acdb.2015.12.001  
+
+Moffitt, U., Juang, L. P., & Syed, M. (2020). Intersectionality and Youth Identity Development Research in Europe. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.00078
+
